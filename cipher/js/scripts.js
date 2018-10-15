@@ -29,3 +29,5 @@ alert(sentenceLast);
 // };
 //
 // alert(sentenceFirstLast(sentence));
+
+maybe check out thiss https://www.regular-expressions.info/anchors.html
